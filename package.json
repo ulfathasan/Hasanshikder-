@@ -17,6 +17,7 @@
     "publish": true
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.116.0",
     "hono": "4.8.2",
     "isbot": "5.1.26",
     "react": "19.0.0",
